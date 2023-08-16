@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @divijan
 - 🛠️ I am a Scala developer from Ukraine
-- 👀 I’m interested in frontend development, functional programming and ways to automate mundane and repetitive tasks (e.g., DevOps tools)
-- 🌱 I’m currently learning how to deal with effects and I/O in functional programming with the help of Functional Programming in Scala book (aka "The Red Book")
-- 💞️ I’m looking to collaborate on some tool that automates something that many people do and that haven't been automated yet or on a teaching project
+- 👀 I’m interested in frontend development, functional programming and ways to automate mundane and repetitive tasks (e.g., DevOps)
+- 🌱 I’m currently learning frontend development and honing my Scala skills
+- 💞️ I’m looking to collaborate on some tool that automates something that many people do and that haven't been automated yet
 - 📫 How to reach me: my skype handle is yar.ilich
 
 <!---
