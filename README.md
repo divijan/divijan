@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @divijan
-- 🛠️ I am a Scala developer with 8 years of experience from Kyiv, Ukraine
-- 👀 I’m interested in frontend development, functional programming and ways to automate mundane and repetitive tasks (e.g., DevOps, RPA)
-- 🌱 I’m currently learning frontend development and trying out cats-effects ecosystem
-- 💞️ I’m looking for work
-- 📫 How to reach me: my skype handle is yar.ilich
+- 🛠️ I am a Scala developer with 10 years of experience from Kyiv, Ukraine
+- 👀 I’m interested in embedded development, functional programming and ways to automate mundane and repetitive tasks (e.g., DevOps, RPA, AI agents)
+- 🌱 I’m currently learning embedded development and using Peprlexity to automate some tasks
+- 💞️ I’m employed
+- 📫 How to reach me: my Telegram handle is @el_cajonero
 
 <!---
 divijan/divijan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
